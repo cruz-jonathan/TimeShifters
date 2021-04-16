@@ -1,0 +1,745 @@
+fileFormatVersion: 2
+guid: c6dfbba6993f3664f82d3cf7ae64bfc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3913843968081744497
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_0
+  - first:
+      213: -1768096975161536822
+    second: Kirby_Walk1
+  - first:
+      213: 18022372427377883
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_2
+  - first:
+      213: 7282548346083813287
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_3
+  - first:
+      213: 3141293206803954611
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_4
+  - first:
+      213: 64878533957814491
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_5
+  - first:
+      213: 3122553730701060526
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_0
+  - first:
+      213: 6496491741581942459
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_1
+  - first:
+      213: 6363012986205112461
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_2
+  - first:
+      213: 2441750220322433684
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_3
+  - first:
+      213: -5232334222946333260
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_4
+  - first:
+      213: -6090237127607930264
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_5
+  - first:
+      213: -8909862696942268958
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_6
+  - first:
+      213: -2416946375903247070
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_7
+  - first:
+      213: 2562870541187398830
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_8
+  - first:
+      213: 7353431022613312228
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_9
+  - first:
+      213: 4016100859315350475
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_10
+  - first:
+      213: 901925380497026422
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_11
+  - first:
+      213: -4547441993371827655
+    second: Kirby_Fall
+  - first:
+      213: -7594837068128005047
+    second: Kirby_Jump
+  - first:
+      213: 2956388079166330088
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_12
+  - first:
+      213: -5555349449238634229
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_13
+  - first:
+      213: 1593298827283493013
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_14
+  - first:
+      213: 7545061679956792396
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_15
+  - first:
+      213: -775444956078819823
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_16
+  - first:
+      213: -2512059842877399257
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_17
+  - first:
+      213: -1098569619875175138
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_18
+  - first:
+      213: 3284145334243669959
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_19
+  - first:
+      213: -6880402670125496948
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_20
+  - first:
+      213: -916777090482785344
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_21
+  - first:
+      213: 4689987877893541727
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_22
+  - first:
+      213: 1936975806413075643
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3270
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe104fa1dc282a50800000000000000
+      internalID: 6496491741581942459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3270
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9e186f21a855b20800000000000000
+      internalID: 3122553730701060526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3270
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8804f72996fd4850800000000000000
+      internalID: 6363012986205112461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3270
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aec8073e6d2e120800000000000000
+      internalID: 2441750220322433684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3270
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd0a2f0fb30367b0800000000000000
+      internalID: -5232334222946333260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3270
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862b80399912b7ba0800000000000000
+      internalID: -6090237127607930264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3270
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed8047651fc95480800000000000000
+      internalID: -8909862696942268958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3270
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2258e1f9318457ed0800000000000000
+      internalID: -2416946375903247070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3270
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacb9c4bd25219320800000000000000
+      internalID: 2562870541187398830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3270
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2343f0e82ac0660800000000000000
+      internalID: 7353431022613312228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3365
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbe1ad047e0cb730800000000000000
+      internalID: 4016100859315350475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3365
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d2f6eda58448c00800000000000000
+      internalID: 901925380497026422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Fall
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2943
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932c064b99d34e0c0800000000000000
+      internalID: -4547441993371827655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby_Jump
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2996
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944d24bfce7b99690800000000000000
+      internalID: -7594837068128005047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3187
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e498ec5b43370920800000000000000
+      internalID: 2956388079166330088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0128f20c1f67e2b0800000000000000
+      internalID: -5555349449238634229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590774d77d88c1610800000000000000
+      internalID: 1593298827283493013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 3187
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c449c3a5f9175b860800000000000000
+      internalID: 7545061679956792396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3187
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116bd02cbe01d35f0800000000000000
+      internalID: -775444956078819823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3187
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fd4c2e1ee532dd0800000000000000
+      internalID: -2512059842877399257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_18
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 3187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15ed4e40c811c0f0800000000000000
+      internalID: -1098569619875175138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3187
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7b95608c0a39d20800000000000000
+      internalID: 3284145334243669959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3344
+        width: 25
+        height: 10
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.8650635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c854587b936e380a0800000000000000
+      internalID: -6880402670125496948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3344
+        width: 25
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.8650635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3be8fe714f643f0800000000000000
+      internalID: -916777090482785344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2648
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f8bb6502f261140800000000000000
+      internalID: 4689987877893541727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Kirby_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3321
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4f6cfbb3581ea10800000000000000
+      internalID: 1936975806413075643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
